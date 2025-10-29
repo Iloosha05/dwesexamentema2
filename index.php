@@ -6,6 +6,6 @@
     <title>Examen</title>
 </head>
 <body>
-    
+    <form action="patata.php"></form>
 </body>
 </html>
